@@ -2,7 +2,7 @@ README.txt
 # CS-7641 Randomized optimization
 
 URL for code
-https://github.com/mkmukund10/assignment2
+https://github.com/mkmukund10/ml_assignment2
 
 All data is stored under data folder and plots under plot folder.
 
