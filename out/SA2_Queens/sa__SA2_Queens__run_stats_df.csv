@@ -1,0 +1,3 @@
+,Iteration,Fitness,FEvals,Time,State,schedule_type,schedule_init_temp,schedule_decay,schedule_min_temp,schedule_current_value,Temperature,max_iters
+0,0,10.0,0,0.000539399974513799,"[6, 3, 4, 6, 2, 7, 4, 4]",geometric,6,0.99,0.001,5.999967473182747,6,4096
+1,4096,0.0,815,0.40393909998238087,"[5, 3, 6, 0, 7, 1, 4, 2]",geometric,6,0.99,0.001,5.975691035510593,6,4096

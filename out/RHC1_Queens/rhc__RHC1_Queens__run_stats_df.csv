@@ -1,0 +1,3 @@
+,Iteration,Fitness,FEvals,Time,State,Restarts,max_iters,current_restart
+0,0,3.0,0,0.0005080999981146306,"[2, 3, 0, 2]",12,4096,0
+1,4096,0.0,13,0.014644400012912229,"[1, 3, 0, 2]",12,4096,0
